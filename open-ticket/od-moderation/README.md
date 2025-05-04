@@ -1,3 +1,5 @@
+# this is in development 
+# you can find the stable one in <https://github.com/open-discord-bots/plugins>
 # OD Moderation
 A clean and minimal moderation plugin for **Open Discord** — helping server admins keep their communities safe and respectful with essential tools.
 
